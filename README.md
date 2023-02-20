@@ -43,4 +43,9 @@ This app demonstrates the use of the React-Router library to create multiple rou
 
 The app also uses the JSON server to provide mock data for the Careers page.
 
+## Screenshot 
+
+![image](https://user-images.githubusercontent.com/64380802/220126938-eb0ca7bb-565b-4d65-8f25-9cb7d285d514.png)
+
+
 
